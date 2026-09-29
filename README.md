@@ -1,4 +1,4 @@
-# ChooseOne 🔥
+# ChooseOne 🔥 known as Habitracker
 
 > **One question. Every day. Did you stay away?**  
 > A radically minimalist, distraction-free habit tracker built to help you overcome vices, break addictions, and stay accountable to **one** commitment at a time. No social feed. No coach. No lectures.
